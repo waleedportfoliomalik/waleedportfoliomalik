@@ -1,4 +1,4 @@
-<h1>Hi my name is Waleed,<a href=www.linkedin.com/in/waleed-malik-a3598b89> a Cyber Secuirty Enthusiast and an IT Professional</a>☺</h1>
+<h1>Hi my name is Waleed,<a href="www.linkedin.com/in/waleed-malik-a3598b89"> a Cyber Secuirty Enthusiast and an IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
